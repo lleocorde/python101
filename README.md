@@ -1,2 +1,3 @@
 # python101
-Working through Python courses
+Working through Python courses...
+https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+PY0101EN+2016/info
